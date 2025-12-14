@@ -1,0 +1,788 @@
+{
+  "names": [
+    {
+      "name": "Max",
+      "gender": ["male"],
+      "breeds": ["golden-retriever", "labrador", "german-shepherd", "bulldog"],
+      "styles": ["classic", "popular"],
+      "meaning": "Greatest",
+      "origin": "Latin"
+    },
+    {
+      "name": "Bella",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "poodle", "chihuahua"],
+      "styles": ["cute", "popular", "elegant"],
+      "meaning": "Beautiful",
+      "origin": "Italian"
+    },
+    {
+      "name": "Charlie",
+      "gender": ["male"],
+      "breeds": ["golden-retriever", "beagle", "corgi", "labrador"],
+      "styles": ["cute", "classic"],
+      "meaning": "Free man",
+      "origin": "English"
+    },
+    {
+      "name": "Luna",
+      "gender": ["female"],
+      "breeds": ["husky", "german-shepherd", "poodle"],
+      "styles": ["unique", "elegant"],
+      "meaning": "Moon",
+      "origin": "Latin"
+    },
+    {
+      "name": "Cooper",
+      "gender": ["male"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["classic", "cool"],
+      "meaning": "Barrel maker",
+      "origin": "English"
+    },
+    {
+      "name": "Daisy",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "beagle", "corgi"],
+      "styles": ["cute", "classic"],
+      "meaning": "Day's eye flower",
+      "origin": "English"
+    },
+    {
+      "name": "Rocky",
+      "gender": ["male"],
+      "breeds": ["rottweiler", "german-shepherd", "bulldog"],
+      "styles": ["tough", "cool"],
+      "meaning": "Rocky terrain",
+      "origin": "English"
+    },
+    {
+      "name": "Lucy",
+      "gender": ["female"],
+      "breeds": ["labrador", "beagle", "poodle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Light",
+      "origin": "Latin"
+    },
+    {
+      "name": "Duke",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "bulldog"],
+      "styles": ["tough", "classic"],
+      "meaning": "Leader",
+      "origin": "Latin"
+    },
+    {
+      "name": "Molly",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Star of the sea",
+      "origin": "Irish"
+    },
+    {
+      "name": "Buddy",
+      "gender": ["male"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Friend",
+      "origin": "English"
+    },
+    {
+      "name": "Sadie",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "german-shepherd"],
+      "styles": ["cute", "classic"],
+      "meaning": "Princess",
+      "origin": "Hebrew"
+    },
+    {
+      "name": "Bear",
+      "gender": ["male"],
+      "breeds": ["rottweiler", "german-shepherd", "husky"],
+      "styles": ["tough", "cool"],
+      "meaning": "Bear-like",
+      "origin": "English"
+    },
+    {
+      "name": "Sophie",
+      "gender": ["female"],
+      "breeds": ["poodle", "golden-retriever", "chihuahua"],
+      "styles": ["elegant", "classic"],
+      "meaning": "Wisdom",
+      "origin": "Greek"
+    },
+    {
+      "name": "Zeus",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "husky"],
+      "styles": ["tough", "unique"],
+      "meaning": "God of sky and thunder",
+      "origin": "Greek"
+    },
+    {
+      "name": "Chloe",
+      "gender": ["female"],
+      "breeds": ["poodle", "chihuahua", "beagle"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Blooming",
+      "origin": "Greek"
+    },
+    {
+      "name": "Jack",
+      "gender": ["male"],
+      "breeds": ["beagle", "corgi", "bulldog"],
+      "styles": ["classic", "cool"],
+      "meaning": "God is gracious",
+      "origin": "English"
+    },
+    {
+      "name": "Lola",
+      "gender": ["female"],
+      "breeds": ["chihuahua", "poodle", "bulldog"],
+      "styles": ["cute", "unique"],
+      "meaning": "Sorrows",
+      "origin": "Spanish"
+    },
+    {
+      "name": "Milo",
+      "gender": ["male"],
+      "breeds": ["beagle", "corgi", "poodle"],
+      "styles": ["cute", "unique"],
+      "meaning": "Soldier or merciful",
+      "origin": "German"
+    },
+    {
+      "name": "Bailey",
+      "gender": ["male", "female"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Bailiff",
+      "origin": "English"
+    },
+    {
+      "name": "Toby",
+      "gender": ["male"],
+      "breeds": ["beagle", "corgi", "bulldog"],
+      "styles": ["cute", "classic"],
+      "meaning": "God is good",
+      "origin": "Hebrew"
+    },
+    {
+      "name": "Maggie",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Pearl",
+      "origin": "Greek"
+    },
+    {
+      "name": "Bentley",
+      "gender": ["male"],
+      "breeds": ["bulldog", "golden-retriever", "rottweiler"],
+      "styles": ["elegant", "cool"],
+      "meaning": "Meadow with coarse grass",
+      "origin": "English"
+    },
+    {
+      "name": "Zoe",
+      "gender": ["female"],
+      "breeds": ["chihuahua", "poodle", "beagle"],
+      "styles": ["cute", "unique"],
+      "meaning": "Life",
+      "origin": "Greek"
+    },
+    {
+      "name": "Oliver",
+      "gender": ["male"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["classic", "elegant"],
+      "meaning": "Olive tree",
+      "origin": "Latin"
+    },
+    {
+      "name": "Penny",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "corgi", "beagle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Weaver",
+      "origin": "Greek"
+    },
+    {
+      "name": "Tucker",
+      "gender": ["male"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["cool", "classic"],
+      "meaning": "Fabric pleater",
+      "origin": "English"
+    },
+    {
+      "name": "Stella",
+      "gender": ["female"],
+      "breeds": ["poodle", "golden-retriever", "husky"],
+      "styles": ["elegant", "unique"],
+      "meaning": "Star",
+      "origin": "Latin"
+    },
+    {
+      "name": "Gus",
+      "gender": ["male"],
+      "breeds": ["bulldog", "beagle", "corgi"],
+      "styles": ["cute", "classic"],
+      "meaning": "Great",
+      "origin": "Latin"
+    },
+    {
+      "name": "Ruby",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Red gemstone",
+      "origin": "Latin"
+    },
+    {
+      "name": "Thor",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "husky"],
+      "styles": ["tough", "unique"],
+      "meaning": "God of thunder",
+      "origin": "Norse"
+    },
+    {
+      "name": "Rosie",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "beagle", "corgi"],
+      "styles": ["cute", "classic"],
+      "meaning": "Rose",
+      "origin": "Latin"
+    },
+    {
+      "name": "Oscar",
+      "gender": ["male"],
+      "breeds": ["bulldog", "beagle", "corgi"],
+      "styles": ["classic", "cool"],
+      "meaning": "God spear",
+      "origin": "Irish"
+    },
+    {
+      "name": "Lily",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "poodle", "chihuahua"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Lily flower",
+      "origin": "English"
+    },
+    {
+      "name": "Diesel",
+      "gender": ["male"],
+      "breeds": ["rottweiler", "german-shepherd", "bulldog"],
+      "styles": ["tough", "cool"],
+      "meaning": "Diesel engine",
+      "origin": "German"
+    },
+    {
+      "name": "Nala",
+      "gender": ["female"],
+      "breeds": ["husky", "german-shepherd", "golden-retriever"],
+      "styles": ["unique", "cute"],
+      "meaning": "Successful",
+      "origin": "African"
+    },
+    {
+      "name": "Finn",
+      "gender": ["male"],
+      "breeds": ["golden-retriever", "labrador", "husky"],
+      "styles": ["cool", "unique"],
+      "meaning": "Fair",
+      "origin": "Irish"
+    },
+    {
+      "name": "Coco",
+      "gender": ["female"],
+      "breeds": ["poodle", "chihuahua", "corgi"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Chocolate bean",
+      "origin": "Spanish"
+    },
+    {
+      "name": "Winston",
+      "gender": ["male"],
+      "breeds": ["bulldog", "golden-retriever", "corgi"],
+      "styles": ["elegant", "classic"],
+      "meaning": "Wine's town",
+      "origin": "English"
+    },
+    {
+      "name": "Pepper",
+      "gender": ["male", "female"],
+      "breeds": ["beagle", "corgi", "chihuahua"],
+      "styles": ["cute", "funny"],
+      "meaning": "Pepper spice",
+      "origin": "English"
+    },
+    {
+      "name": "Leo",
+      "gender": ["male"],
+      "breeds": ["golden-retriever", "german-shepherd", "rottweiler"],
+      "styles": ["cool", "classic"],
+      "meaning": "Lion",
+      "origin": "Latin"
+    },
+    {
+      "name": "Gracie",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "poodle"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Grace",
+      "origin": "Latin"
+    },
+    {
+      "name": "Harley",
+      "gender": ["male", "female"],
+      "breeds": ["bulldog", "rottweiler", "german-shepherd"],
+      "styles": ["cool", "tough"],
+      "meaning": "Hare's meadow",
+      "origin": "English"
+    },
+    {
+      "name": "Ellie",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "poodle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Bright shining one",
+      "origin": "Greek"
+    },
+    {
+      "name": "Buster",
+      "gender": ["male"],
+      "breeds": ["bulldog", "beagle", "corgi"],
+      "styles": ["funny", "classic"],
+      "meaning": "One who breaks things",
+      "origin": "English"
+    },
+    {
+      "name": "Willow",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "husky", "poodle"],
+      "styles": ["elegant", "unique"],
+      "meaning": "Willow tree",
+      "origin": "English"
+    },
+    {
+      "name": "Ace",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "husky"],
+      "styles": ["cool", "tough"],
+      "meaning": "Number one",
+      "origin": "Latin"
+    },
+    {
+      "name": "Piper",
+      "gender": ["female"],
+      "breeds": ["beagle", "corgi", "poodle"],
+      "styles": ["cute", "unique"],
+      "meaning": "Pipe player",
+      "origin": "English"
+    },
+    {
+      "name": "Jax",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "bulldog"],
+      "styles": ["cool", "tough"],
+      "meaning": "God has been gracious",
+      "origin": "English"
+    },
+    {
+      "name": "Roxy",
+      "gender": ["female"],
+      "breeds": ["bulldog", "beagle", "chihuahua"],
+      "styles": ["cool", "cute"],
+      "meaning": "Dawn",
+      "origin": "Persian"
+    },
+    {
+      "name": "Hank",
+      "gender": ["male"],
+      "breeds": ["bulldog", "beagle", "labrador"],
+      "styles": ["classic", "cool"],
+      "meaning": "Ruler of the home",
+      "origin": "German"
+    },
+    {
+      "name": "Athena",
+      "gender": ["female"],
+      "breeds": ["german-shepherd", "husky", "rottweiler"],
+      "styles": ["elegant", "unique"],
+      "meaning": "Goddess of wisdom",
+      "origin": "Greek"
+    },
+    {
+      "name": "Bruno",
+      "gender": ["male"],
+      "breeds": ["rottweiler", "bulldog", "german-shepherd"],
+      "styles": ["tough", "classic"],
+      "meaning": "Brown",
+      "origin": "German"
+    },
+    {
+      "name": "Hazel",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Hazelnut tree",
+      "origin": "English"
+    },
+    {
+      "name": "Axel",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "husky"],
+      "styles": ["tough", "cool"],
+      "meaning": "Father of peace",
+      "origin": "Scandinavian"
+    },
+    {
+      "name": "Mia",
+      "gender": ["female"],
+      "breeds": ["chihuahua", "poodle", "beagle"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Mine",
+      "origin": "Italian"
+    },
+    {
+      "name": "Rex",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "bulldog"],
+      "styles": ["tough", "classic"],
+      "meaning": "King",
+      "origin": "Latin"
+    },
+    {
+      "name": "Emma",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "poodle"],
+      "styles": ["elegant", "classic"],
+      "meaning": "Universal",
+      "origin": "German"
+    },
+    {
+      "name": "Koda",
+      "gender": ["male"],
+      "breeds": ["husky", "german-shepherd", "golden-retriever"],
+      "styles": ["unique", "cool"],
+      "meaning": "Friend",
+      "origin": "Native American"
+    },
+    {
+      "name": "Ivy",
+      "gender": ["female"],
+      "breeds": ["poodle", "chihuahua", "corgi"],
+      "styles": ["elegant", "cute"],
+      "meaning": "Ivy plant",
+      "origin": "English"
+    },
+    {
+      "name": "Ranger",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "labrador", "golden-retriever"],
+      "styles": ["tough", "cool"],
+      "meaning": "Forest guardian",
+      "origin": "English"
+    },
+    {
+      "name": "Maya",
+      "gender": ["female"],
+      "breeds": ["husky", "german-shepherd", "golden-retriever"],
+      "styles": ["elegant", "unique"],
+      "meaning": "Illusion",
+      "origin": "Sanskrit"
+    },
+    {
+      "name": "Moose",
+      "gender": ["male"],
+      "breeds": ["rottweiler", "german-shepherd", "labrador"],
+      "styles": ["funny", "tough"],
+      "meaning": "Large deer",
+      "origin": "Native American"
+    },
+    {
+      "name": "Abby",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Father's joy",
+      "origin": "Hebrew"
+    },
+    {
+      "name": "Apollo",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "husky"],
+      "styles": ["elegant", "unique"],
+      "meaning": "God of sun and light",
+      "origin": "Greek"
+    },
+    {
+      "name": "Ginger",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "corgi", "beagle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Ginger spice",
+      "origin": "English"
+    },
+    {
+      "name": "Tank",
+      "gender": ["male"],
+      "breeds": ["rottweiler", "bulldog", "german-shepherd"],
+      "styles": ["tough", "funny"],
+      "meaning": "Large and strong",
+      "origin": "English"
+    },
+    {
+      "name": "Olive",
+      "gender": ["female"],
+      "breeds": ["poodle", "beagle", "corgi"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Olive tree",
+      "origin": "Latin"
+    },
+    {
+      "name": "Gunner",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "labrador"],
+      "styles": ["tough", "cool"],
+      "meaning": "Bold warrior",
+      "origin": "Scandinavian"
+    },
+    {
+      "name": "Zoey",
+      "gender": ["female"],
+      "breeds": ["chihuahua", "poodle", "beagle"],
+      "styles": ["cute", "unique"],
+      "meaning": "Life",
+      "origin": "Greek"
+    },
+    {
+      "name": "Brutus",
+      "gender": ["male"],
+      "breeds": ["rottweiler", "bulldog", "german-shepherd"],
+      "styles": ["tough", "classic"],
+      "meaning": "Heavy, muscular",
+      "origin": "Latin"
+    },
+    {
+      "name": "Princess",
+      "gender": ["female"],
+      "breeds": ["chihuahua", "poodle", "corgi"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Royal daughter",
+      "origin": "English"
+    },
+    {
+      "name": "Sammy",
+      "gender": ["male", "female"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Told by God",
+      "origin": "Hebrew"
+    },
+    {
+      "name": "Lulu",
+      "gender": ["female"],
+      "breeds": ["chihuahua", "poodle", "corgi"],
+      "styles": ["cute", "funny"],
+      "meaning": "Pearl",
+      "origin": "Arabic"
+    },
+    {
+      "name": "Hunter",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "labrador", "beagle"],
+      "styles": ["tough", "cool"],
+      "meaning": "One who hunts",
+      "origin": "English"
+    },
+    {
+      "name": "Honey",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "labrador", "corgi"],
+      "styles": ["cute", "classic"],
+      "meaning": "Sweet nectar",
+      "origin": "English"
+    },
+    {
+      "name": "Rocco",
+      "gender": ["male"],
+      "breeds": ["rottweiler", "bulldog", "german-shepherd"],
+      "styles": ["tough", "cool"],
+      "meaning": "Rest",
+      "origin": "Italian"
+    },
+    {
+      "name": "Sasha",
+      "gender": ["female"],
+      "breeds": ["husky", "german-shepherd", "golden-retriever"],
+      "styles": ["elegant", "unique"],
+      "meaning": "Defender of mankind",
+      "origin": "Russian"
+    },
+    {
+      "name": "Boomer",
+      "gender": ["male"],
+      "breeds": ["labrador", "golden-retriever", "beagle"],
+      "styles": ["funny", "cool"],
+      "meaning": "One who booms",
+      "origin": "English"
+    },
+    {
+      "name": "Kona",
+      "gender": ["male", "female"],
+      "breeds": ["husky", "labrador", "golden-retriever"],
+      "styles": ["unique", "cool"],
+      "meaning": "Lady",
+      "origin": "Hawaiian"
+    },
+    {
+      "name": "Scout",
+      "gender": ["male", "female"],
+      "breeds": ["beagle", "german-shepherd", "labrador"],
+      "styles": ["cool", "unique"],
+      "meaning": "To listen",
+      "origin": "English"
+    },
+    {
+      "name": "Marley",
+      "gender": ["male", "female"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Pleasant wood",
+      "origin": "English"
+    },
+    {
+      "name": "Blue",
+      "gender": ["male", "female"],
+      "breeds": ["husky", "german-shepherd", "bulldog"],
+      "styles": ["unique", "cool"],
+      "meaning": "Blue color",
+      "origin": "English"
+    },
+    {
+      "name": "Simba",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "golden-retriever"],
+      "styles": ["unique", "cool"],
+      "meaning": "Lion",
+      "origin": "Swahili"
+    },
+    {
+      "name": "Peanut",
+      "gender": ["male", "female"],
+      "breeds": ["chihuahua", "corgi", "beagle"],
+      "styles": ["cute", "funny"],
+      "meaning": "Small legume",
+      "origin": "English"
+    },
+    {
+      "name": "Shadow",
+      "gender": ["male", "female"],
+      "breeds": ["german-shepherd", "rottweiler", "labrador"],
+      "styles": ["cool", "unique"],
+      "meaning": "Shade",
+      "origin": "English"
+    },
+    {
+      "name": "Baxter",
+      "gender": ["male"],
+      "breeds": ["bulldog", "beagle", "labrador"],
+      "styles": ["classic", "cool"],
+      "meaning": "Baker",
+      "origin": "English"
+    },
+    {
+      "name": "Winnie",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "corgi", "poodle"],
+      "styles": ["cute", "classic"],
+      "meaning": "Fair one",
+      "origin": "Welsh"
+    },
+    {
+      "name": "Maverick",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "husky", "rottweiler"],
+      "styles": ["cool", "unique"],
+      "meaning": "Independent one",
+      "origin": "English"
+    },
+    {
+      "name": "Layla",
+      "gender": ["female"],
+      "breeds": ["husky", "german-shepherd", "golden-retriever"],
+      "styles": ["elegant", "unique"],
+      "meaning": "Night",
+      "origin": "Arabic"
+    },
+    {
+      "name": "Bandit",
+      "gender": ["male"],
+      "breeds": ["beagle", "corgi", "german-shepherd"],
+      "styles": ["funny", "cool"],
+      "meaning": "Thief",
+      "origin": "English"
+    },
+    {
+      "name": "Callie",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "beagle", "corgi"],
+      "styles": ["cute", "classic"],
+      "meaning": "Beautiful",
+      "origin": "Greek"
+    },
+    {
+      "name": "Odin",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "husky", "rottweiler"],
+      "styles": ["tough", "unique"],
+      "meaning": "Norse god",
+      "origin": "Norse"
+    },
+    {
+      "name": "Millie",
+      "gender": ["female"],
+      "breeds": ["golden-retriever", "poodle", "corgi"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Gentle strength",
+      "origin": "German"
+    },
+    {
+      "name": "Cash",
+      "gender": ["male"],
+      "breeds": ["german-shepherd", "rottweiler", "bulldog"],
+      "styles": ["cool", "tough"],
+      "meaning": "Hollow",
+      "origin": "Latin"
+    },
+    {
+      "name": "Lexi",
+      "gender": ["female"],
+      "breeds": ["poodle", "chihuahua", "beagle"],
+      "styles": ["cute", "elegant"],
+      "meaning": "Defender",
+      "origin": "Greek"
+    },
+    {
+      "name": "Rusty",
+      "gender": ["male"],
+      "breeds": ["golden-retriever", "labrador", "beagle"],
+      "styles": ["classic", "cute"],
+      "meaning": "Red-haired",
+      "origin": "English"
+    },
+    {
+      "name": "Mochi",
+      "gender": ["male", "female"],
+      "breeds": ["corgi", "chihuahua", "poodle"],
+      "styles": ["cute", "unique"],
+      "meaning": "Japanese rice cake",
+      "origin": "Japanese"
+    }
+  ]
+}
