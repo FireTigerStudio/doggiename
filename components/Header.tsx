@@ -14,12 +14,6 @@ export default function Header() {
             <Link href="/" className="text-warm-700 hover:text-primary-600 transition-colors">
               Home
             </Link>
-            <Link href="/golden-retriever-names" className="text-warm-700 hover:text-primary-600 transition-colors">
-              By Breed
-            </Link>
-            <Link href="/cute-dog-names" className="text-warm-700 hover:text-primary-600 transition-colors">
-              By Style
-            </Link>
           </div>
         </div>
       </nav>
